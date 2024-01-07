@@ -2479,7 +2479,7 @@ footer .footer-social {
 	top: -.3rem;
 }
 footer .footer-social li {
-	display: inline-block;
+	display: inline;
 	margin: 0 12px;
 	padding: 0;
 }
