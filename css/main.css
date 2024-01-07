@@ -1632,7 +1632,7 @@ header{
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #FF0077;
+	color: #FF0077;     /* work exp and education*/
 }
 
 #resume .resume-timeline {
@@ -2479,7 +2479,7 @@ footer .footer-social {
 	top: -.3rem;
 }
 footer .footer-social li {
-	display: inline-block;
+	display: inline;
 	margin: 0 12px;
 	padding: 0;
 }
